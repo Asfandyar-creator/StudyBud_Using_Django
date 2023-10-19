@@ -8,8 +8,6 @@ from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 
 
-
-
 def login_page(request):
     page = 'login'
     if request.user.is_authenticated:
