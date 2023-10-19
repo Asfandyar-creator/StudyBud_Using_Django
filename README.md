@@ -1,0 +1,3 @@
+# StudyBud_Using_Django
+StudyBuddy is a Django Web app.
+Register yourself in and find your study partner...
